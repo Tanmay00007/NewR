@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://tanmay00007.github.io/",
+  "homepage": "https://tanmay00007.github.io/NewR/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
